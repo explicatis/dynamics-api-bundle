@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace Explicatis\DynamicsApiBundle;
+namespace Explicatis\DynamicsApiBundle\Service;
 
 use Explicatis\DynamicsPhpApi\DynamicsWrapper;
 use Symfony\Component\DependencyInjection\Attribute\Autowire;
