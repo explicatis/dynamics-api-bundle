@@ -17,6 +17,7 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.2",
-        "explicatis/dynamics-php-api": "*"
+        "explicatis/dynamics-php-api": "*",
+        "symfony/http-kernel": "^5.4|^6.0|^7.0|^8.0"
     }
 }
