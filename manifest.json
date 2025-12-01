@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DYNAMICS_AUTH_BASE_URL": "https://login.microsoftonline.com/",
+    "DYNAMICS_API_BASE_URL": "",
+    "DYNAMICS_TENANT_ID": "",
+    "DYNAMICS_APP_ID": "",
+    "DYNAMICS_CLIENT_KEY": ""
+  }
+}

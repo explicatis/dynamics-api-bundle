@@ -1,0 +1,22 @@
+{
+    "name": "explicatis/dynamics-api-bundle",
+    "description": "Symfony Bundle for Dynamics 365 API",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Explicatis\\DynamicsApiBundle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jörn Wagner",
+            "email": "joern.wagner@explicatis.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2",
+        "explicatis/dynamics-php-api": "*"
+    }
+}
