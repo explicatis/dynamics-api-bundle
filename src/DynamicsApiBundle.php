@@ -2,8 +2,8 @@
 
 namespace Explicatis\DynamicsApiBundle;
 
-use Symfony\Component\HttpKernel\Bundle\AbstractBundle;
+use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class DynamicsApiBundle extends AbstractBundle
+class DynamicsApiBundle extends Bundle
 {
 }
